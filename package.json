@@ -1,5 +1,5 @@
 {
-  "name": "bp-nestjs-extensions",
+  "name": "bp-npmnestjs-extensions",
   "version": "0.0.0-alpha0",
   "description": "Nestjs lib extensions",
   "main": "index.ts",
